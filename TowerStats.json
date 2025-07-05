@@ -14663,7 +14663,5 @@
                 "Cooldown": 2,
                 "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             }
-
         ]
-    }
-}
+    },
