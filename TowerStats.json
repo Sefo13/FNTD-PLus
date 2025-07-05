@@ -13999,10 +13999,582 @@
             }
         ]
     },
-    "Jester Puppet": {
+            "Patrick Bateman Freddy": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Secret",
+        "Rarity": "Sigma",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Troll Face Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Sigma",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "C00l Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Forsaken",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Gubby": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Forsaken",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Apex Golden Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Apex",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Apex Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Apex",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Br Br Bonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Italian",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Tung Tung Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Italian",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Ignited Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Ignited",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Ignited Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Ignited",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+            "Ignited Bonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Ignited",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+        "Ignited Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Ignited",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+        "Mr Bob": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            }
+        ]
+    },
+    "Buster": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -14048,7 +14620,51 @@
                 "Wither": 1.35,
                 "ShinyWither": 1.35,
                 "WitherTime": 1
+            },
+                "Mr Hippo": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             }
+        ]
+    },
         ]
     }
 }
