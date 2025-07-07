@@ -92,6 +92,59 @@
             }
         ]
     },
+            "JACE_DT": {
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://89350188594126",
+        "Rarity": "Apex",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 60000,
+                "Range": 32,
+                "Damage": 4000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 70000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            },
+            {
+                "Price": 80000,
+                "Range": 38,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1
+            }
+        ]
+    },
         "Gubby": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
