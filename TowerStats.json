@@ -43,7 +43,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://135437830976521",
         "Rarity": "Magic",
-        "PlacePrice": 50000,
+        "PlacePrice": 1000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Two Faced", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage."},
